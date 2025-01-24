@@ -1,0 +1,17 @@
+export const templatebtns = [
+  { name: "Undraw", button: "https://undraw.co/" },
+  { name: "Drawkit", button: "https://drawkit.io/" },
+  { name: "Pixabay", button: "https://pixabay.com/" },
+  { name: "Pexels", button: "https://www.pexels.com/" },
+  { name: "Burst by Shopify", button: "https://burst.shopify.com/" },
+  { name: "StockSnap", button: "https://stocksnap.io/" },
+  { name: "Reshot", button: "https://www.reshot.com/" },
+  { name: "Freepik", button: "https://www.freepik.com/" },
+  { name: "Gratisography", button: "https://gratisography.com/" },
+  { name: "Life of Pix", button: "https://www.lifeofpix.com/" },
+  { name: "Kaboompics", button: "https://kaboompics.com/" },
+  { name: "Unsplash", button: "https://unsplash.com/" },
+  { name: "Manypixels", button: "https://www.manypixels.co/" },
+  { name: "Glazestock", button: "https://www.glazestock.com/" },
+  { name: "Opendoodles", button: "https://www.opendoodles.com/" },
+];
