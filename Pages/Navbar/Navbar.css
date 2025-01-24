@@ -1,0 +1,27 @@
+nav {
+  padding: 0 5%;
+}
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 12vh;
+}
+.nav-logo h2 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+ul li a {
+  text-decoration: none;
+  cursor: pointer;
+  text-transform: capitalize;
+  color: black;
+  font-weight: 400;
+  font-size: 1rem;
+}
